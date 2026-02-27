@@ -1,0 +1,21 @@
+{
+  "name": "edulinkup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduLinkUp/EduCom-E-commerce-Platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EduLinkUp/EduCom-E-commerce-Platform/issues"
+  },
+  "homepage": "https://github.com/EduLinkUp/EduCom-E-commerce-Platform#readme"
+}
